@@ -4,10 +4,11 @@
 	"private": true,
 	"dependencies": {
 		"bootstrap": "^4.3.1",
+		"cost-calculation": "^1.0.0",
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
-		"react-scripts": "2.1.8",
-		"react-ionicons": "2.1.6"
+		"react-ionicons": "2.1.6",
+		"react-scripts": "2.1.8"
 	},
 	"scripts": {
 		"start": "react-scripts start",
@@ -26,5 +27,9 @@
 	],
 	"devDependencies": {
 		"react-dev-utils": "^8.0.0"
-	}
+	},
+	"main": "index.js",
+	"repository": "https://github.com/LeventLei/Note-Tool.git",
+	"author": "LeventLei <443706199@qq.com>",
+	"license": "MIT"
 }
